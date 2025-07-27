@@ -102,7 +102,7 @@ function App() {
               
               <div className="prose prose-lg text-gray-600 max-w-none">
                 <p>
-                  <strong>GD Structures</strong> est une entreprise spécialisée dans la construction et l'ingénierie structurelle. 
+                  <strong>GD</strong> est une entreprise spécialisée dans la construction et l'ingénierie structurelle. 
                   Avec plus de 13 ans d'expérience combinée, nos ingénieurs diplômés du CHEBAP 2009 mettent leur expertise 
                   au service de vos projets les plus ambitieux.
                 </p>
