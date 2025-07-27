@@ -760,9 +760,9 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-gray-400">
-                <p>123 Avenue de la Construction</p>
+                <p><strong>Adresse :</strong> 123 Avenue de la Construction</p>
                 <p>75001 Paris, France</p>
-                <p>contact@gdstructures.fr</p>
+                <p><strong>Fmail : </strong>contact@gdstructures.fr</p>
                 <div className="flex space-x-4 mt-4">
                   <Star className="h-5 w-5 text-yellow-400" />
                   <Star className="h-5 w-5 text-yellow-400" />
